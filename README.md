@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi there!
 
-<!--
-**NoClickAFK/NoClickAFK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bachelor of Science in Energy Engineering, specializing in AI-based automation and robotics.**  
+Currently an AI and automation engineer focused on building autonomous systems.
 
-Here are some ideas to get you started:
+I design and implement intelligent automation solutions using cutting-edge AI technologies and agent-based architectures.  
+My goal is to eliminate repetitive tasks and enable systems that think, act, and improve autonomously.  
+I work at the intersection of engineering, data, and intelligence — creating scalable infrastructures for business process automation and decision-making systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Current Focus
+- AI-first automation for business and personal productivity
+- Designing autonomous agent-based workflows
+- Implementing intelligent systems with n8n, LangChain, OpenAI, and more
+
+---
+
+### 🌐 Let's Connect
+- 🌍 Website: [afkwork.online](https://afkwork.online)  
+- 💻 GitHub: [NoClickAFK](https://github.com/NoClickAFK)  
+- ✈️ Telegram: [AFK Work](https://t.me/+Z53wSXcblQkwOGI6)
